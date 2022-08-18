@@ -398,7 +398,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('👥Groupထဲဝင်ရန်', url='https://t.me/whattowatch7'),
+            InlineKeyboardButton('👥Groupထဲဝင်ရန်', url='https://t.me/+VKr9e9iR-zVkMTM9'),
             InlineKeyboardButton('🎦𝙼𝚘𝚟𝚒𝚎 𝙻𝚒𝚜𝚝 ကြည့်ရန်', url='https://telegra.ph/%F0%9D%93%A6%F0%9D%93%B1%F0%9D%93%AA%F0%9D%93%BD-%F0%9D%93%BD%F0%9D%93%B8-%F0%9D%94%80%F0%9D%93%AA%F0%9D%93%BD%F0%9D%93%AC%F0%9D%93%B1-01-04')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
@@ -431,7 +431,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('👥Groupထဲဝင်ရန်', url='https://t.me/whattowatch7'),
+            InlineKeyboardButton('👥Groupထဲဝင်ရန်', url='https://t.me/+VKr9e9iR-zVkMTM9'),
             InlineKeyboardButton('♥️ 𝗠𝗼𝘃𝗶𝗲 𝗟𝗶𝘀𝘁', callback_data='source')
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
