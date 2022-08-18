@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('👥Groupထဲဝင်ရန်', url='https://t.me/whattowatch7')
+                InlineKeyboardButton('👥Groupထဲဝင်ရန်', url='https://t.me/+VKr9e9iR-zVkMTM9')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
