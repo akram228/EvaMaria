@@ -39,7 +39,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/whattowatch7)</code>
+<code>[Button Text](buttonurl:https://t.me/+VKr9e9iR-zVkMTM9)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
